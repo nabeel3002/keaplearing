@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?><svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="600" height="100">	<path d="M-1 100.99999999999997 L601 101.00000000000004 L601 -1 L-1 -1 L-1 100.99999999999997 Z" stroke-opacity="1" stroke-width="0" stroke-linecap="square" fill="rgb(255, 255, 255)" fill-opacity="1"></path>
+	<line x1="30" y1="40" x2="570" y2="40" stroke="rgb(0, 0, 0)" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-dasharray="undefined"></line>
+	<line x1="15" y1="40" x2="30" y2="40" stroke="rgb(0, 0, 0)" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-dasharray="undefined"></line>
+	<line x1="14" y1="40" x2="21.071067811865476" y2="47.071067811865476" stroke="rgb(0, 0, 0)" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-dasharray="solid"></line>
+	<line x1="14" y1="40" x2="21.071067811865476" y2="32.928932188134524" stroke="rgb(0, 0, 0)" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-dasharray="solid"></line>
+	<line x1="570" y1="40" x2="585" y2="40" stroke="rgb(0, 0, 0)" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-dasharray="undefined"></line>
+	<line x1="586" y1="40" x2="578.9289321881345" y2="32.928932188134524" stroke="rgb(0, 0, 0)" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-dasharray="solid"></line>
+	<line x1="586" y1="40" x2="578.9289321881346" y2="47.071067811865476" stroke="rgb(0, 0, 0)" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-dasharray="solid"></line>
+	<line x1="30" y1="30" x2="30" y2="50" stroke="rgb(0, 0, 0)" stroke-opacity="1" stroke-width="2" stroke-linecap="round" stroke-dasharray="undefined"></line>
+	<text x="0" y="0" text-anchor="middle" dominant-baseline="middle" transform="translate(30,60) rotate(0)" font-family="Sans-Serif" font-size="12pt" font-weight="bold" fill="rgb(255, 0, 0)" fill-opacity="1">-3</text>
+	<line x1="51.6" y1="35" x2="51.6" y2="45" stroke="rgb(0, 0, 255)" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-dasharray="undefined"></line>
+	<line x1="73.2" y1="35" x2="73.2" y2="45" stroke="rgb(0, 0, 255)" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-dasharray="undefined"></line>
+	<line x1="94.80000000000001" y1="35" x2="94.80000000000001" y2="45" stroke="rgb(0, 0, 255)" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-dasharray="undefined"></line>
+	<line x1="116.4" y1="35" x2="116.4" y2="45" stroke="rgb(0, 0, 255)" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-dasharray="undefined"></line>
+	<line x1="138" y1="30" x2="138" y2="50" stroke="rgb(0, 0, 0)" stroke-opacity="1" stroke-width="2" stroke-linecap="round" stroke-dasharray="undefined"></line>
+	<text x="0" y="0" text-anchor="middle" dominant-baseline="middle" transform="translate(138,60) rotate(0)" font-family="Sans-Serif" font-size="12pt" font-weight="bold" fill="rgb(255, 0, 0)" fill-opacity="1">-2</text>
+	<line x1="159.6" y1="35" x2="159.6" y2="45" stroke="rgb(0, 0, 255)" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-dasharray="undefined"></line>
+	<line x1="181.2" y1="35" x2="181.2" y2="45" stroke="rgb(0, 0, 255)" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-dasharray="undefined"></line>
+	<line x1="202.8" y1="35" x2="202.8" y2="45" stroke="rgb(0, 0, 255)" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-dasharray="undefined"></line>
+	<line x1="224.4" y1="35" x2="224.4" y2="45" stroke="rgb(0, 0, 255)" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-dasharray="undefined"></line>
+	<line x1="246" y1="30" x2="246" y2="50" stroke="rgb(0, 0, 0)" stroke-opacity="1" stroke-width="2" stroke-linecap="round" stroke-dasharray="undefined"></line>
+	<text x="0" y="0" text-anchor="middle" dominant-baseline="middle" transform="translate(246,60) rotate(0)" font-family="Sans-Serif" font-size="12pt" font-weight="bold" fill="rgb(255, 0, 0)" fill-opacity="1">-1</text>
+	<line x1="267.6" y1="35" x2="267.6" y2="45" stroke="rgb(0, 0, 255)" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-dasharray="undefined"></line>
+	<line x1="289.2" y1="35" x2="289.2" y2="45" stroke="rgb(0, 0, 255)" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-dasharray="undefined"></line>
+	<line x1="310.8" y1="35" x2="310.8" y2="45" stroke="rgb(0, 0, 255)" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-dasharray="undefined"></line>
+	<line x1="332.4" y1="35" x2="332.4" y2="45" stroke="rgb(0, 0, 255)" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-dasharray="undefined"></line>
+	<line x1="354" y1="30" x2="354" y2="50" stroke="rgb(0, 0, 0)" stroke-opacity="1" stroke-width="2" stroke-linecap="round" stroke-dasharray="undefined"></line>
+	<text x="0" y="0" text-anchor="middle" dominant-baseline="middle" transform="translate(354,60) rotate(0)" font-family="Sans-Serif" font-size="12pt" font-weight="bold" fill="rgb(0, 0, 0)" fill-opacity="1">0</text>
+	<line x1="375.6" y1="35" x2="375.6" y2="45" stroke="rgb(0, 0, 255)" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-dasharray="undefined"></line>
+	<line x1="397.2" y1="35" x2="397.2" y2="45" stroke="rgb(0, 0, 255)" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-dasharray="undefined"></line>
+	<line x1="418.8" y1="35" x2="418.8" y2="45" stroke="rgb(0, 0, 255)" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-dasharray="undefined"></line>
+	<line x1="440.4" y1="35" x2="440.4" y2="45" stroke="rgb(0, 0, 255)" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-dasharray="undefined"></line>
+	<line x1="462" y1="30" x2="462" y2="50" stroke="rgb(0, 0, 0)" stroke-opacity="1" stroke-width="2" stroke-linecap="round" stroke-dasharray="undefined"></line>
+	<text x="0" y="0" text-anchor="middle" dominant-baseline="middle" transform="translate(462,60) rotate(0)" font-family="Sans-Serif" font-size="12pt" font-weight="bold" fill="rgb(0, 0, 0)" fill-opacity="1">1</text>
+	<line x1="483.6" y1="35" x2="483.6" y2="45" stroke="rgb(0, 0, 255)" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-dasharray="undefined"></line>
+	<line x1="505.2" y1="35" x2="505.2" y2="45" stroke="rgb(0, 0, 255)" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-dasharray="undefined"></line>
+	<line x1="526.8" y1="35" x2="526.8" y2="45" stroke="rgb(0, 0, 255)" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-dasharray="undefined"></line>
+	<line x1="548.4" y1="35" x2="548.4" y2="45" stroke="rgb(0, 0, 255)" stroke-opacity="1" stroke-width="1" stroke-linecap="round" stroke-dasharray="undefined"></line>
+	<line x1="570" y1="30" x2="570" y2="50" stroke="rgb(0, 0, 0)" stroke-opacity="1" stroke-width="2" stroke-linecap="round" stroke-dasharray="undefined"></line>
+	<text x="0" y="0" text-anchor="middle" dominant-baseline="middle" transform="translate(570,60) rotate(0)" font-family="Sans-Serif" font-size="12pt" font-weight="bold" fill="rgb(0, 0, 0)" fill-opacity="1">2</text>
+	<line x1="375.6" y1="90" x2="375.6" y2="34.99999999999999" stroke="rgb(255, 0, 0)" stroke-opacity="1" stroke-width="3.5" stroke-linecap="round" stroke-dasharray="solid"></line>
+	<line x1="375.6" y1="32.199999999999996" x2="366.99635345473433" y2="44.487280664334875" stroke="rgb(255, 0, 0)" stroke-opacity="1" stroke-width="2.8000000000000003" stroke-linecap="round" stroke-dasharray="solid"></line>
+	<line x1="375.6" y1="32.199999999999996" x2="384.2036465452657" y2="44.48728066433487" stroke="rgb(255, 0, 0)" stroke-opacity="1" stroke-width="2.8000000000000003" stroke-linecap="round" stroke-dasharray="solid"></line>
+</svg>
